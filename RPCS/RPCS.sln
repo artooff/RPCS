@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artov.WPF.MVVM.Core", "Artov.WPF.MVVM.Core\Artov.WPF.MVVM.Core.csproj", "{3226E5F4-6BC3-4F7B-838B-76ECFC5EB191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artov.WPF.MVVM", "Artov.WPF.MVVM\Artov.WPF.MVVM.csproj", "{098C4078-051A-4921-967A-94CCEA63C373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3226E5F4-6BC3-4F7B-838B-76ECFC5EB191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3226E5F4-6BC3-4F7B-838B-76ECFC5EB191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3226E5F4-6BC3-4F7B-838B-76ECFC5EB191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3226E5F4-6BC3-4F7B-838B-76ECFC5EB191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098C4078-051A-4921-967A-94CCEA63C373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098C4078-051A-4921-967A-94CCEA63C373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098C4078-051A-4921-967A-94CCEA63C373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098C4078-051A-4921-967A-94CCEA63C373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1EC1FF-C211-4F8B-8962-C7A2A5859EC7}
+	EndGlobalSection
+EndGlobal
